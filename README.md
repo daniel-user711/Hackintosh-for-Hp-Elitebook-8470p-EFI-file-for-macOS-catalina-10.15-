@@ -1,0 +1,2 @@
+# Hackintosh-for-Hp-Elitebook-8470p-EFI-file-for-macOS-catalina-10.15-
+hardware: CPU - i5 3210m, GPU - HD 4000, WI-FI - Intel(R) Centrino(R) Ultimate-N 6300 AGN, the wi-fi works in installer as it should work but i macOS it doesnt some how, you can use OpCore-Simplify-main and Hardware-Sniffer to generate EFI for yout exact system, but for wifi i chosed itlwm.kext with a few networks that my hp already connected
